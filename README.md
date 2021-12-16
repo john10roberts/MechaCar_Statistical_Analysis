@@ -16,6 +16,18 @@ Markup : * vehicle_length
          * ground_clearance
          * AWD
          * MPG
+         
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+
+-OR-
+
+ Markup : - Bullet list
+              - Nested bullet
+                  - Sub-nested bullet etc
+          - Bullet list item 2 
 
 ## Statistical Summary
 ![Statistical Summary](https://github.com/john10roberts/MechaCar_Statistical_Analysis/blob/main/Resources/MechaMPGSummary.png)
