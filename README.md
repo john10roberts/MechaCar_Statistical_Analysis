@@ -10,25 +10,13 @@ Markup : * Perform multiple linear regression analysis to identify which variabl
 ### Linear Regression to Predict MPG
 The MechaCar dataset consists of 50 observations with 6 variables:
  
-Markup : * vehicle_length
-         * vehicle_weight
-         * spoiler_angle
-         * ground_clearance
-         * AWD
-         * MPG
+* vehicle_length
+* vehicle_weight
+* spoiler_angle
+* ground_clearance
+* AWD
+* MPG
          
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
-
--OR-
-
- Markup : - Bullet list
-              - Nested bullet
-                  - Sub-nested bullet etc
-          - Bullet list item 2 
-
 ## Statistical Summary
 ![Statistical Summary](https://github.com/john10roberts/MechaCar_Statistical_Analysis/blob/main/Resources/MechaMPGSummary.png)
 
@@ -37,9 +25,9 @@ Vehicle length and vehicle ground clearance provide a non-random amount of varia
 ### Summary Statistics on Suspension Coils
 The Suspension_Coil dataset consists of 150 observations with 3 variables:
  
-Markup : * vehicleID
-         * Manudacturing_Lot
-         * PSI
+* vehicleID
+* Manudacturing_Lot
+* PSI
 
 ## Statistical Summary
 ![Total Summary](https://github.com/john10roberts/MechaCar_Statistical_Analysis/blob/main/Resources/TotalSummary.png)
@@ -73,10 +61,10 @@ Write a short description of a statistical study that can quantify how the Mecha
 
 Price would be the study that I would like to quantify how MechaCar performs against its competition. I would begin by collecting data across all manufacturers for:
 
-Markup : * Price
-         * Cost of Ownership
-         * MPG
-         * Resale Value
+* Price
+* Cost of Ownership
+* MPG
+* Resale Value
 
 The null hypothesis would be that the MechaCar is priced correctly based on the metrics provided. The alternative hypothesis would then be that MechaCare is not priced correctly based on the metrics provided. 
 
